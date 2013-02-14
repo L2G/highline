@@ -1,0 +1,14 @@
+PATH
+  remote: .
+  specs:
+    highline (1.6.16)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  highline!
