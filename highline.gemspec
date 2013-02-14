@@ -33,4 +33,8 @@ command-line interfaces. HighLine also includes a complete menu system that can
 crank out anything from simple list selection to complete shells with just
 minutes of work.
 END_DESC
+
+  spec.add_dependency             "windowtint"
+  spec.add_development_dependency "rake", ">= 0.9", "< 11"
+
 end
